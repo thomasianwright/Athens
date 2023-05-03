@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4dc14ba5_002D2c3e_002D4df3_002Da2d6_002Dedbc42121a74/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GenerateAccessToken_Returns" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::BEB24B9E-2B4A-4E4A-BA0C-BBFCB5B373E1::net7.0::Athens.Core.Tests.TokenHelperTests.GenerateAccessToken_Returns&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
